@@ -6,10 +6,8 @@
     --shadow:0 4px 10px rgba(0,0,0,0.2);
 }
 
-/* Header */
 header{background:var(--primary);padding:15px;color:var(--white);text-align:center;font-size:24px;font-weight:600;}
 
-/* Navigation */
 nav{
     background:#2e7d32;
     display:flex;
@@ -114,4 +112,5 @@ footer{
     color:white;
     padding:15px;
     margin-top:20px;
+
 }
